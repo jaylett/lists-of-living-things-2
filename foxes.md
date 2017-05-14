@@ -15,7 +15,7 @@
  * Fennec fox
  * Gray fox
  * Hoary fox
- * Ireland fox
+ * Island fox
  * Kit fox
  * Pale fox
  * Pampas fox
