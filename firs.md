@@ -29,3 +29,7 @@
 
  * Noble fir
  * Red fir
+
+## Bracteata
+
+ * Bristlecone fir
