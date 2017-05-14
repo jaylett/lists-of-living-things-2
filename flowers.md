@@ -17,6 +17,7 @@
  * Jasmine
  * Kangaroo Paw
  * Lily
+ * Lupin
  * Magnolia
  * Nasturtium
  * Orchid
