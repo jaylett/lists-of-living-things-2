@@ -2,11 +2,16 @@
 
  * Amaryllis
  * Baby's Breath
+ * Calla
  * Carnation
+ * Chrysanthemum
+ * Daffodil
  * Delphinium
  * Eremurus
  * Freesia
  * Gardenia
+ * Gladiolus
+ * Hyacinth
  * Hydrangea
  * Iris
  * Jasmine
@@ -16,6 +21,7 @@
  * Nasturtium
  * Orchid
  * Peony
+ * Poinsettia
  * Queen Anne's Lace
  * Rose
  * Sunflower
