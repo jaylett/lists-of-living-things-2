@@ -10,6 +10,8 @@
  * Cozumel fox
  * Crab-eating fox
  * Darwin's fox
+ * Ethiopian wolf
+ * Falkland Islands wolf (extinct)
  * Fennec fox
  * Gray fox
  * Hoary fox
